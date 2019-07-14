@@ -1,2 +1,0 @@
-# EasyCMS
-Created with CodeSandbox
